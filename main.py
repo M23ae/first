@@ -1,2 +1,2 @@
 hello world!
-dkanrjsk
+print("Hello")
